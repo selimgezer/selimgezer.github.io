@@ -50,7 +50,7 @@ social:
     # - https://www.facebook.com/username
     - https://www.linkedin.com/in/SelimGezer
 
-google_site_verification:               # fill in to your verification string
+google_site_verification: google77c1e1d42636dd71.html              # fill in to your verification string
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
@@ -83,7 +83,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: '/assets/avatar.png'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
