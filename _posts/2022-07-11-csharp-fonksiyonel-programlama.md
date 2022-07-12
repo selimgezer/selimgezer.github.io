@@ -2,10 +2,10 @@
 title: C# Fonksiyonel Programlama
 author: selimgezer
 date: 2022-07-11 11:33:00 +0800
-categories: [Programlama, C#]
-tags: [c#, programlama, fonksiyonel programlama, delegate, closure, action, func, predicate]
-math: true
-mermaid: true
+categories: ["Programlama", "C#"]
+tags: ["c#", "programlama", "fonksiyonel programlama", "delegate", "closure", "action", "func", "predicate"]
+# math: true
+# mermaid: true
 # image:
 #   path: 
 #   width: 800
