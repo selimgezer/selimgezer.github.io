@@ -5,12 +5,12 @@ order: 4
 ---
 
 <!-- <img src="../../assets/img/profil.jpg" width="100" height="100"> -->
-![Desktop View](../../assets/img/profil.jpg){: .right w="150" h="150" }
+![Desktop View](../assets/img/pro_aim.png){: .right w="150" h="150" }
 
 
 Merhabalar ben Selim,
 <br/>
-İçerisinde bulunduğum mesleği en güzel şekilde temsil etmek için her zaman farklı platformlar, teknolojiler ve bilgiler edinmeye çalıştım. Edindiğim bu tecrübeleri paylaşmak için Udemy üzerinde kurs, Youtube üzerinde ise bir kanal oluşturdum. Geriye dönüp baktığımda çalışma yaptığım çoğu zaman oldukça fazla not tuttuğumu gördüm. Fakat bu notlar sadece bana özeldi. Bunları herkese açık hale getirirsem, belki video izlemek yerine yazı okuyarak ilerlemeyi seven arkadaşlar vardır diye düşünerekten bu bloğu kurdum. Umarım paylaştıklarım sizler için fayda sağlar. Hepinize hayatta başarılar dilerim.<br/> Mutlu kodlamalar.
+İçerisinde bulunduğum mesleği en güzel şekilde temsil etmek için her zaman farklı platformlar, teknolojiler ve bilgiler edinmeye çalıştım. Edindiğim bu tecrübeleri paylaşmak için Udemy üzerinde kurs, Youtube üzerinde ise bir kanal oluşturdum. Geriye dönüp baktığımda çalışma yaptığım çoğu zaman oldukça fazla not tuttuğumu gördüm. Fakat bu notlar sadece bana özeldi. Bunları herkese açık hale getirirsem video izlemek yerine okuyarak ilerlemeyi seven arkadaşlarada katkı sağlayabileceğimi düşündüm ve bu bloğu kurdum. Umarım paylaştıklarım sizler için fayda sağlar. Hepinize başarılar dilerim.<br/> Mutlu kodlamalar.
 <br/>
 <br/>
 Unutmayın ki bilginin zekatı onu paylaşmaktır.
